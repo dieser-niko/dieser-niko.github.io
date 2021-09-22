@@ -4,8 +4,11 @@ I'm in an apprenticeship as a software developer since late 2020.
 My current programming language skills are currently limited to python only, but sooner or later I'll probably start with JavaScript as my second language.
 
 ## Projects
-Currently I don't have any interesting open-source projects, since I'm not really used to create a repository for my projects.
-Most of my projects are privately stored in a cloud. 
+Currently I don't have that much open-source projects, since I'm not really used to create a repository for my projects.
+Most of my projects are privately stored in a cloud.
+
+### [StorageExplorer](https://github.com/dieser-niko/StorageExplorer)
+Shows the storage of files and even folders.
 
 ## Links
 [GitHub](https://github.com/dieser-niko)
