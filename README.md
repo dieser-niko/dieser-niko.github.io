@@ -1,7 +1,8 @@
 or dieserniko on most places online. 
+
 I'm currently in an apprenticeship as a software developer since late 2020.
 
-My current programming language skills are currently limited to python only, but sooner or later I'll probably start with JavaScript as my second language.
+My programming language skills are limited to python only, but sooner or later I'll probably start with JavaScript as my second language.
 
 ## Projects
 Currently I don't have that much open-source projects, since I'm not really used to create a repository for my projects.
