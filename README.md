@@ -10,6 +10,8 @@ My programming language skills are limited to python only, but sooner or later I
 
 Shows the storage of files and even folders.
 
+---
+
 ### NeoPixel Studio | Status: early development
 
 Lets you create effects and programs for your NeoPixel LED strip.
@@ -17,6 +19,7 @@ Lets you create effects and programs for your NeoPixel LED strip.
 In the end it should look like a video cutting tool, where you can select, configure and insert the effects into a timeline and with a preview.
 Currently I won't commit it anywhere, since I'm still testing out everything, maybe it's not even possible for me.
 
+---
 
 ### Note:
 Currently I don't have that much open-source projects, since I'm not really used to create a repository for my projects.
