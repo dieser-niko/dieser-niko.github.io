@@ -6,6 +6,14 @@ My programming language skills are limited to python only, but sooner or later I
 
 ## Projects
 
+### [Pi-Bar](https://github.com/dieser-niko/pi-bar) | Status: half-through, GUI and main script missing
+
+A Raspberry Pi as a bartender. Select your favourite drink on a touchpad.
+
+Currently all the smaller functions are working as intended, now it has to be bundled in a main function.
+
+---
+
 ### [StorageExplorer](https://github.com/dieser-niko/StorageExplorer) | Status: finished
 
 Shows the storage of files and even folders.
