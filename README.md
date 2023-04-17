@@ -20,12 +20,11 @@ Shows the storage of files and even folders.
 
 ---
 
-### NeoPixel Studio | Status: early development
+### Radiopy | Status: Early version, not public
 
-Lets you create effects and programs for your NeoPixel LED strip.
-
-In the end it should look like a video cutting tool, where you can select, configure and insert the effects into a timeline and with a preview.
-Currently I won't commit it anywhere, since I'm still testing out everything, maybe it's not even possible for me.
+A script that collects music from radio stations and converts them into spotify playlists.
+The test version of the script is already working and is being executed every 24 hours.
+Check it out: [autoplaylist on Spotify](https://open.spotify.com/user/31bk3o6pc4ehozimdakaglavex2e)
 
 ---
 
