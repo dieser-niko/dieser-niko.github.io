@@ -6,6 +6,16 @@ My programming language skills are limited to python only, but sooner or later I
 
 ## Projects
 
+### [SpotipyAnon](https://github.com/dieser-niko/spotipy-anon) | Status: finished and released
+
+An extension to Spotipy for anonymous access to the Spotify Web API.
+Available on [PyPI](https://pypi.org/project/spotipy-anon/)
+
+It allows to use the Spotify API with the help of [Spotipy](https://github.com/spotipy-dev/spotipy).
+Not all endpoints are accessible, those include user specific endpoints for example.
+
+---
+
 ### [Pi-Bar](https://github.com/dieser-niko/pi-bar) | Status: half-through, GUI and main script missing
 
 A Raspberry Pi as a bartender. Select your favourite drink on a touchpad.
