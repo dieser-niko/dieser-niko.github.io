@@ -6,6 +6,15 @@ My programming language skills are limited to python only, but sooner or later I
 
 ## Projects
 
+### [Radiopy](https://github.com/radiopy) | Status: Early version, not public (yet)
+
+A script that collects music from radio stations and converts them into spotify playlists.
+I'm planning to create more than one repository, so I've created an organisation.
+The test version of the script is already working and is being executed every 24 hours.
+Check it out: [radiopy on Spotify](https://open.spotify.com/user/31bk3o6pc4ehozimdakaglavex2e)
+
+---
+
 ### [SpotipyAnon](https://github.com/dieser-niko/spotipy-anon) | Status: finished and released
 
 An extension to Spotipy for anonymous access to the Spotify Web API.
@@ -27,14 +36,6 @@ Currently all the smaller functions are working as intended, now it has to be bu
 ### [StorageExplorer](https://github.com/dieser-niko/StorageExplorer) | Status: finished
 
 Shows the storage of files and even folders.
-
----
-
-### Radiopy | Status: Early version, not public
-
-A script that collects music from radio stations and converts them into spotify playlists.
-The test version of the script is already working and is being executed every 24 hours.
-Check it out: [autoplaylist on Spotify](https://open.spotify.com/user/31bk3o6pc4ehozimdakaglavex2e)
 
 ---
 
