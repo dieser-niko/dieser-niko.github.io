@@ -25,11 +25,11 @@ Not all endpoints are accessible, those include user specific endpoints for exam
 
 ---
 
-### [Pi-Bar](https://github.com/dieser-niko/pi-bar) | Status: half-through, GUI and main script missing
+### [Pi-Bar](https://github.com/dieser-niko/pi-bar) | Status: early midlife crisis, redo everything
 
-A Raspberry Pi as a bartender. Select your favourite drink on a touchpad.
-
-Currently all the smaller functions are working as intended, now it has to be bundled in a main function.
+As configuring the drinks was already more complicated than it needed to be, I decided to start again.
+The plan is to let the owner configure the drinks via the web interface, as the file and folder structure is not very clear.
+This approach can provide the owner with an experience similar to that of the user.
 
 ---
 
