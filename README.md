@@ -60,6 +60,7 @@ So the project is just sitting on my computer and I have no idea if I can just r
 I want to try and just release it and see if Spotify does anything about it, but I'm just not sure if that's the right thing to do.
 I still have this (I think) very interesting story, so I guess that's cool..
 
+---
 
 ### [Radiopy](https://radiopy.github.io) | Status: Early version, not public (yet)
 
