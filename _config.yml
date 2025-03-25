@@ -1,3 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
 title: "Hi, I'm Niko."
 description: Software developer
+plugins:
+  - jekyll-include-cache
