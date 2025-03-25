@@ -1,3 +1,3 @@
-theme: jekyll-theme-hacker
+remote_theme: mmistakes/minimal-mistakes
 title: "Hi, I'm Niko."
 description: Software developer
