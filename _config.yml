@@ -1,5 +1,11 @@
+minimal_mistakes_skin: "dark"
 remote_theme: mmistakes/minimal-mistakes
-title: "Hi, I'm Niko."
-description: Software developer
+title: "dieserniko"
+subtitle: "Software developer"
+name: "dieserniko"
+url: "https://dieserniko.link"
+respository: "dieser-niko/dieser-niko.github.io"
+teaser: "https://1.gravatar.com/userimage/255741953/5d3b4f6c4a79b6fe52b08098008c31cd?size=1024"
+logo: "https://1.gravatar.com/avatar/fe984a839bc48cd9df2e88aa2a24300d0bebb55df49380c12d4ef3cb4af74c1b?size=256"
 plugins:
   - jekyll-include-cache
