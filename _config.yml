@@ -4,8 +4,32 @@ title: "dieserniko"
 subtitle: "Software developer"
 name: "dieserniko"
 url: "https://dieserniko.link"
-respository: "dieser-niko/dieser-niko.github.io"
 teaser: "https://1.gravatar.com/userimage/255741953/5d3b4f6c4a79b6fe52b08098008c31cd?size=1024"
 logo: "https://1.gravatar.com/avatar/fe984a839bc48cd9df2e88aa2a24300d0bebb55df49380c12d4ef3cb4af74c1b?size=256"
+respository: "dieser-niko/dieser-niko.github.io"
 plugins:
   - jekyll-include-cache
+author:
+  name: "dieserniko"
+  avatar: "https://1.gravatar.com/avatar/fe984a839bc48cd9df2e88aa2a24300d0bebb55df49380c12d4ef3cb4af74c1b?size=256"
+  bio: |
+    I'm a software developer since late 2020.
+    My programming language skills are limited to python only, but sooner or later I'll probably start with JavaScript as my second language.
+
+    I'm a maintainer for the [spotipy](https://github.com/spotipy-dev/spotipy) library since June 2024.
+    But I also have my own projects like [radiopy](https://radiopy.github.io). I'll probably document all my (OSS) projects on this site.
+  location: "Germany"
+  email: "hello@dieserniko.link"
+  github: "https://github.com/dieser-niko"
+  stackoverflow: "https://stackoverflow.com/users/15580216/dieserniko"
+  youtube: "https://www.youtube.com/channel/UCvUkk9NjKTNtuTorkba7thw"
+  twitter: "https://twitter.com/dieser_niko"
+  links:
+    - label: "Discord"
+      icon: "fas fa-fw fa-discord"
+      url: "https://discord.com/users/181370356798324737"
+    - label: "BlueSky"
+      icon: "fas fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/dieserniko.link"
+    - label: "Reddit (inactive)"
+      icon: "fas fa-fw fa-bluesky"
