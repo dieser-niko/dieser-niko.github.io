@@ -33,7 +33,7 @@ author:
       url: "https://bsky.app/profile/dieserniko.link"
     - label: "Reddit (inactive)"
       icon: "fab fa-fw fa-reddit"
-      url: "https://reddit.com/r/nikohd203"
+      url: "https://reddit.com/u/nikohd203"
 defaults:
   # _posts
   - scope:
