@@ -26,13 +26,14 @@ author:
   twitter: "https://twitter.com/dieser_niko"
   links:
     - label: "Discord"
-      icon: "fas fa-fw fa-discord"
+      icon: "fab fa-fw fa-discord"
       url: "https://discord.com/users/181370356798324737"
     - label: "BlueSky"
-      icon: "fas fa-fw fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/dieserniko.link"
     - label: "Reddit (inactive)"
-      icon: "fas fa-fw fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://reddit.com/r/nikohd203"
 defaults:
   # _posts
   - scope:
