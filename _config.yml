@@ -8,7 +8,7 @@ teaser: "https://1.gravatar.com/userimage/255741953/5d3b4f6c4a79b6fe52b08098008c
 logo: "https://1.gravatar.com/avatar/fe984a839bc48cd9df2e88aa2a24300d0bebb55df49380c12d4ef3cb4af74c1b?size=256"
 og_logo: "https://1.gravatar.com/avatar/fe984a839bc48cd9df2e88aa2a24300d0bebb55df49380c12d4ef3cb4af74c1b?size=256"
 respository: "dieser-niko/dieser-niko.github.io"
-author_profile: true
+
 author:
   name: "dieserniko"
   avatar: "https://1.gravatar.com/avatar/fe984a839bc48cd9df2e88aa2a24300d0bebb55df49380c12d4ef3cb4af74c1b?size=256"
@@ -33,6 +33,14 @@ author:
       url: "https://bsky.app/profile/dieserniko.link"
     - label: "Reddit (inactive)"
       icon: "fas fa-fw fa-bluesky"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
