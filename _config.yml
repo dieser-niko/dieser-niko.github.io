@@ -32,7 +32,7 @@ author:
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/dieserniko.link"
     - label: "Reddit (inactive)"
-      icon: "fab fa-fw fa-bluesky"
+      icon: "fab fa-fw fa-reddit"
       url: "https://reddit.com/r/nikohd203"
 defaults:
   # _posts
